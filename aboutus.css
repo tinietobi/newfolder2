@@ -1,0 +1,252 @@
+.body{
+    margin: auto;
+}
+.header ul li{
+    list-style-type: none;
+    display: inline-block;
+    font-size:17px;
+    font-weight: 500;
+    word-spacing: normal;
+    margin: 0;
+    margin-bottom: 0;
+    margin-left: 70px;
+    gap: 30px;
+}
+.headerimg{
+    background-image: linear-gradient( to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/christina-wocintechchat-com-rg1y72eKw6o-unsplash.jpg);
+    height: 500px;
+    padding: 10px;
+    background-position: center;
+    background-size: 100%;   
+}
+.headerlist{
+    background-color: white;
+    border-radius: 30px;
+    padding: 5px;
+    color: black;
+    width: 85%;
+    margin-left: 75px;
+    position: fixed;
+    bottom: 550px;
+    z-index: 20px;
+}
+.img{
+    width: 30px;
+    height: 30px;
+}
+
+.headerlist ul li button{
+    background-color: rgb(0, 81, 255);
+    color: white;
+    border: none;
+    border-radius:5px ;
+    padding: 10px;
+}
+.header h1{
+    margin-left: 170px;
+    margin-top: 180px;
+    font-size: 80px;
+    color: white;
+}
+.twoimg{
+    display: flex;
+}
+.twoimg2{
+    display: flex;
+}
+.fourimg {
+    display: flex;
+    padding-top: 120px;
+    padding-left: 80px;
+    background-color: beige;
+    padding-bottom: 20px;
+}
+.img1{
+    margin-right: 20px;
+}
+.img2{
+    margin-top: -40px;
+}
+.img3{ 
+    margin-right: 40px;
+    margin-left: 30px;
+    margin-top: 20px;
+
+}
+.img4 img{
+    margin-top: -110px;
+    width: 250px;
+    height: 350px;
+}
+.text1 {
+    margin-left: 70px;
+    margin-top: 50px;
+    margin-right: 150px;
+}
+.text1 p{
+    font-size: 20px;
+}
+.text h1{
+    margin-top: 20px;
+}
+.fourboxes{
+    display: flex;
+    padding: 150px;
+
+}
+.box1{
+   width: 450px;
+    height: 200px;
+   padding: 20px;
+   border-radius: 8px;
+   padding-bottom: 50px;
+   
+
+}
+.box2{
+    color: white;
+    margin-top: 20px;
+    width: 450px;
+    padding: 20px;
+    height: 200px;
+    border-radius: 8px;
+    background: linear-gradient(to right, rgb(0,0,100),rgb(13,65,255),rgb(0,103,229)); 
+    position: relative;
+}
+.box3{  
+    color: white;
+    padding-bottom: -10px;
+    padding: 30px;
+    height: 200px;
+    margin-left: 50px;
+    border-radius: 8px;
+    background: linear-gradient(to right, rgb(0,0,100),rgb(13,65,255),rgb(0,103,229)); 
+    position: relative;
+    
+}
+.box4{
+    color: white;
+    padding-bottom: -10px;
+    margin-left: 50px;
+    height: 200px;
+    margin-top: 30px;
+    background: linear-gradient(to right, rgb(0,0,100),rgb(13,65,255),rgb(0,103,229)); 
+    padding: 20px;
+    border-radius: 8px;
+    position: relative;
+
+}
+.twoeach2{
+    
+}
+.transforming{
+    color: rgb(0, 81, 255);
+}
+.bottom{
+    display: flex;
+    background-color: blue;
+    color: white;
+}
+.line{
+    width: 2px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: red;
+}
+.history{
+    padding: 20px;
+}
+.eteam{
+    padding: 20px;
+}
+.description{
+    margin-top:20px ;
+    margin-left: 100px;
+    width: 45%;
+}
+.description h1{
+    text-align: center;   
+    font-size: 40px;
+}
+.description ul li {
+    font-size: 20px;
+}
+.description p{
+    font-size: 20px;
+}
+.footer{
+    background-color: blue;
+}
+.firstflex{
+    display: flex;
+}
+.icons{
+    width: 25px;
+    height: 25px;
+    margin-left: 30px ;
+}
+.firstflex ul li{
+    text-decoration: none;
+    list-style-type: none;
+
+}
+.brow1{
+    padding: 10px;
+    margin: 10px;
+}
+.brow2{
+
+}
+.brow3{
+
+}
+.brow4{
+    
+}
+.logo{
+    padding: 0;
+}
+.lastrow{
+    display: flex;
+}
+.lastrow1{
+    display: flex;
+}
+.line2{
+    width: 2px;
+    background-color: white;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.footer{
+    color: white;
+}
+hr{
+  height: 0.001px;
+  margin-top: 1px;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+.lastrow{
+    padding-left: 450px;
+}
+.lastrow1{
+    padding-left: 450px;
+}
+.badge{
+    position: absolute;
+    width:60px;
+    height: 60px;
+    background-color: aliceblue;
+    border-radius: 50%;
+    top: -50px;
+    left: -30px;
+    font-size: 26px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    color: black;
+    justify-content: center;
+}
